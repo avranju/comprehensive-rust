@@ -24,6 +24,7 @@
   - [Compile Time Guarantees](why-rust/compile-time.md)
   - [Runtime Guarantees](why-rust/runtime.md)
   - [Modern Features](why-rust/modern.md)
+  - [Rust at Microsoft](why-rust/rust-at-microsoft.md)
 - [Basic Syntax](basic-syntax.md)
   - [Scalar Types](basic-syntax/scalar-types.md)
   - [Compound Types](basic-syntax/compound-types.md)

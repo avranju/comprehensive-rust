@@ -11,6 +11,8 @@ Static memory management at compile time:
 * No data races between threads.
 * No iterator invalidation.
 
+<img src="mind-blown.gif" alt="Mind Blown" width="200" />
+
 <details>
 
 It is possible to produce memory leaks in (safe) Rust. Some examples
